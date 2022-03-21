@@ -1,0 +1,22 @@
+{
+  "name": "mustafabin-resume",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mustafabin/npm.git"
+  },
+  "author": "Mustafa Binalhag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafabin/npm/issues"
+  },
+  "bin": {
+    "resume-me": "./index.js"
+  },
+  "homepage": "https://github.com/mustafabin/npm#readme"
+}
